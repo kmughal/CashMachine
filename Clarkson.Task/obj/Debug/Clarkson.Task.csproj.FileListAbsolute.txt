@@ -1,0 +1,6 @@
+C:\Users\khurr\Desktop\Interview Tests\Clarkson\Clarkson.Task\Clarkson.Task\Clarkson.Task\bin\Debug\Clarkson.Task.exe.config
+C:\Users\khurr\Desktop\Interview Tests\Clarkson\Clarkson.Task\Clarkson.Task\Clarkson.Task\obj\Debug\Clarkson.Task.csprojResolveAssemblyReference.cache
+C:\Users\khurr\Desktop\Interview Tests\Clarkson\Clarkson.Task\Clarkson.Task\Clarkson.Task\bin\Debug\Clarkson.Task.exe
+C:\Users\khurr\Desktop\Interview Tests\Clarkson\Clarkson.Task\Clarkson.Task\Clarkson.Task\bin\Debug\Clarkson.Task.pdb
+C:\Users\khurr\Desktop\Interview Tests\Clarkson\Clarkson.Task\Clarkson.Task\Clarkson.Task\obj\Debug\Clarkson.Task.exe
+C:\Users\khurr\Desktop\Interview Tests\Clarkson\Clarkson.Task\Clarkson.Task\Clarkson.Task\obj\Debug\Clarkson.Task.pdb

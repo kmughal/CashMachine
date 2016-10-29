@@ -1,0 +1,8 @@
+C:\Users\khurr\Desktop\Interview Tests\Clarkson\Clarkson.Task\Clarkson.Task\Clarkson.Task.Tests\Clarkson.Task.Tests\bin\Debug\Clarkson.Task.Tests.dll
+C:\Users\khurr\Desktop\Interview Tests\Clarkson\Clarkson.Task\Clarkson.Task\Clarkson.Task.Tests\Clarkson.Task.Tests\bin\Debug\Clarkson.Task.Tests.pdb
+C:\Users\khurr\Desktop\Interview Tests\Clarkson\Clarkson.Task\Clarkson.Task\Clarkson.Task.Tests\Clarkson.Task.Tests\bin\Debug\Clarkson.Task.exe
+C:\Users\khurr\Desktop\Interview Tests\Clarkson\Clarkson.Task\Clarkson.Task\Clarkson.Task.Tests\Clarkson.Task.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\khurr\Desktop\Interview Tests\Clarkson\Clarkson.Task\Clarkson.Task\Clarkson.Task.Tests\Clarkson.Task.Tests\bin\Debug\Clarkson.Task.pdb
+C:\Users\khurr\Desktop\Interview Tests\Clarkson\Clarkson.Task\Clarkson.Task\Clarkson.Task.Tests\Clarkson.Task.Tests\obj\Debug\Clarkson.Task.Tests.csprojResolveAssemblyReference.cache
+C:\Users\khurr\Desktop\Interview Tests\Clarkson\Clarkson.Task\Clarkson.Task\Clarkson.Task.Tests\Clarkson.Task.Tests\obj\Debug\Clarkson.Task.Tests.dll
+C:\Users\khurr\Desktop\Interview Tests\Clarkson\Clarkson.Task\Clarkson.Task\Clarkson.Task.Tests\Clarkson.Task.Tests\obj\Debug\Clarkson.Task.Tests.pdb
